@@ -1,6 +1,8 @@
 #Environment
 ![![Build status](https://ci.appveyor.com/api/projects/status/0ifwb14m3m8va65e?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-hw-1-env)
-![CI](https://github.com/subhunt/ahj_hw_1_env/actions/workflows/web.yml/badge.svg)
+
+![CI](https://github.com/subhunt/ahj_hw_1_env/tree/main/1_ahj_env/actions/workflows/web.yml/badge.svg)
+
 
 # Домашнее задание к занятию "1. Рабочее окружение"
 
